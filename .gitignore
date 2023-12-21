@@ -68,3 +68,11 @@ dist/
 
 # dapper binaries
 .dapper
+
+# Ignore binary
+.envrc*
+kine
+
+# Ignore Go Workspace
+go.work*
+
